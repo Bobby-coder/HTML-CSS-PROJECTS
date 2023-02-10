@@ -23,7 +23,7 @@
 ## **SAAS LANDING PAGE**
 [Source Code](https://github.com/Bobby-coder/SAAS-LANDING-PAGE)
 
-![Live Site Screenshot](screenshots/sass.png)
+![Live Site Screenshot](screenshots/saas.png)
 
 ## **PRODUCT HOME PAGE**
 [Source Code](https://github.com/Bobby-coder/PRODUCT-HOME-PAGE)
